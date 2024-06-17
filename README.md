@@ -69,7 +69,7 @@ Technologies I'm studying:
 <a href="https://www.linkedin.com/in/guilherme-mazuca/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.twitch.tv/jakeliny" target="_blank">
+<a href="mailto:mazucagui@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-6441a5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt=email style="margin-bottom: 5px;" />
 </a>   
 </div>  
