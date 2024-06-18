@@ -5,25 +5,6 @@
 <h3 align="center">Software Engineer with 4 years of expertise in the IT area. Proficient in a diverse range of technologies. Skilled in the complete software development lifecycle (SLDC), from requirements gathering to architecture design, implementation, and testing. Committed to staying up-to-date with the latest industry trends and technologies.
 I'm looking forward to collaborating on great projects.
 </h3>
-<h3 align="start">
-
-Technologies I have experience with:
-- Javascript
-- Typescript
-- Node.js
-- Tailwind CSS
-- MySQL
-- Postgres SQL
-- React.js
-- Next.js
-- AWS
-- Fastify
-- Firebase
-
-Technologies I'm studying:
-- Python
-- Nest.j
- </h3>
 <br/><br/>
 
 
@@ -75,5 +56,5 @@ Technologies I'm studying:
 </div>  
 <br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiMazuca&theme=radical)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiMazuca&theme=radical)
