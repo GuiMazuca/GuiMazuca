@@ -57,4 +57,3 @@ I'm looking forward to collaborating on great projects.
 <br/><br/>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuiMazuca&theme=radical)
